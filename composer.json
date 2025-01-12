@@ -4,7 +4,7 @@
       "Cielo": "src"
     }
   },
-  "name": "filipegar/cielo-api-3.0-php",
+  "name": "brenoasap/cielo-api-3.0-php",
   "description": "Integração com a API 3.0 da Cielo",
   "license": "MIT",
   "type": "library",
@@ -17,5 +17,5 @@
   "suggest": {
     "monolog/monolog": "Allows more advanced logging of the application flow"
   },
-  "homepage": "https://github.com/filipegar/cielo-api-3.0-php"
+  "homepage": "https://github.com/brenoasap/cielo-api-3.0-php"
 }
